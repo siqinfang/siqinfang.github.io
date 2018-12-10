@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test markdown
+image: /img/hello_world.jpeg
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
